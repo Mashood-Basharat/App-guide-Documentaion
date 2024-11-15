@@ -88,6 +88,10 @@ This controls how many pixels are added or removed from the face crop in each di
   - May lead to offset mouth positioning in fast-moving frames.  
 
 ---
+### **Output Result** 
+- If the user is not satified with the output video of the model, he can revisit lipsyncing page to reset the parameters for better results
+
+---
 
 ## Notes for Best Results  
 - Ensure the uploaded video and audio are well-aligned in duration.  

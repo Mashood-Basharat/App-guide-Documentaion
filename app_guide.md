@@ -49,11 +49,13 @@ Once the media files are uploaded:
 
 You can choose between two models for lip-syncing:  
 
-**Model**	                **Pros**	                                                        **Cons**
-Wav2Lip	            Highly accurate lip-syncing	                                Rarely produces missing teeth (uncommon)
-                    Keeps the mouth closed when there is no sound	
-Wav2Lip_GAN	        Visually appealing results	                                Struggles to mask original lip movements when there is no sound
-                    Retains the original expressions of the speaker naturally	
+| **Model**       | **Pros**                                                    | **Cons**                                                              |
+|------------------|------------------------------------------------------------|-----------------------------------------------------------------------|
+| **Wav2Lip**     | - Highly accurate lip-syncing                               | - Rarely produces missing teeth (uncommon)                           |
+|                 | - Keeps the mouth closed when there is no sound             |                                                                       |
+| **Wav2Lip_GAN** | - Visually appealing results                                | - Struggles to mask original lip movements when there is no sound     |
+|                 | - Retains the original expressions of the speaker naturally |                                                                       |
+	
 
 
 ## Step 5: Adjusting Parameters  

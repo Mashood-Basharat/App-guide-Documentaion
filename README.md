@@ -1,0 +1,1 @@
+This repo is build for application user guide for SyncKing Kong(AI Lip Syncing Web App). It contains two markdown files. One is for application usage guide and other is for the documentation purposes.
